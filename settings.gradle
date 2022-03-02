@@ -1,0 +1,6 @@
+rootProject.name = 'PraktikumTest'
+
+include 'domain'
+include 'domain'
+include 'services'
+
